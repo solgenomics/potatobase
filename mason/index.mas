@@ -4,31 +4,25 @@ $static_content_path => undef
 $show_accept_dialog => undef
 </%args>
 
+<div>
+
 <& /util/import_javascript.mas, classes=>[ "jquery", "jqueryui", "jquery.cookie"] &>
 
 <table cellpadding="0">
 
 <tr><td colspan="2">
-<& homepage/iconmenu.mas &>
+
 </td></tr>
 
 <tr>
 <td colspan="2">
 
 
-Welcome to PotatoBase!
+<h4>Welcome to PotatoBase!</h4>
 
 
 </td>
 </tr>
-
-<tr>
-
-<td width="300">
-
-
-</td></tr>
-
 
 </table>
 
