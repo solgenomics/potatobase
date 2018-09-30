@@ -21,9 +21,10 @@ $show_accept_dialog => undef
 
 <center>
 
-<h4>Welcome to PotatoBase!</h4>
+<h4>Welcome to Potatobase!</h4>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" width="800" />
-
+<br />
+<font size="1">(Source: Wikipedia)</font>
 </center>
 
 </td>
