@@ -8,6 +8,8 @@ $show_accept_dialog => undef
 
 <& /util/import_javascript.mas, classes=>[ "jquery", "jqueryui", "jquery.cookie"] &>
 
+<center>
+
 <table cellpadding="0">
 
 <tr><td colspan="2">
@@ -17,17 +19,26 @@ $show_accept_dialog => undef
 <tr>
 <td colspan="2">
 
+<center>
 
 <h4>Welcome to PotatoBase!</h4>
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg" width="800" />
 
+</center>
 
 </td>
 </tr>
+<tr>
+<td>
 
+<br />
+<br />
+<br />
+<br />
+<& homepage/github_pullrequests.mas &>
+</td>
+</tr>
 </table>
 
-<& homepage/github_pullrequests.mas &>
-
-
-
+</center>
 
